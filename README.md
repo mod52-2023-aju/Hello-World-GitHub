@@ -9,6 +9,10 @@ Um dos processos mais importantes na trajetória de um programador consiste em c
 
 ## Benificios do GitHub
 
+<div align="center">
+  <img src="https://github.com/mod52-2023-aju/Hello-World-GitHub/assets/17755195/540ce083-dd97-400b-945d-ab61dfa066de" alt="Imagem centralizada">
+</div>
+
 * Controle de versão: Git é uma ferramenta de controle de versão que permite gerenciar e acompanhar as alterações em seu código ao longo do tempo. Com o Git, você pode facilmente rastrear as mudanças em seu código, colaborar com outros desenvolvedores e reverter para versões anteriores do seu código se necessário.
 
 * Colaboração: O GitHub é uma plataforma que permite que os desenvolvedores compartilhem e colaborem em projetos de software. Com o GitHub, você pode facilmente colaborar com outros desenvolvedores, contribuir para projetos open-source e construir uma rede profissional.
